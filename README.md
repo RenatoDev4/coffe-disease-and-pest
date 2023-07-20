@@ -1,0 +1,1 @@
+Projeto desenvolvido para fins estudantis e consiste no desenvolvimento de um modelo de machine learning altamente eficiente e preciso para detectar a presença de ferrugem e minerador de folhas nas folhas das lavouras de café. Utilizando técnicas avançadas de aprendizado de máquina e processamento de imagens, o sistema é capaz de identificar essas doenças com rapidez e precisão.
